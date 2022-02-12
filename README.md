@@ -7,4 +7,7 @@ The Changes made to the original code:
 html:Changed Header Title, fixed foot element, added nav element, added alts for images
 css: Consolidated elements (benefit, benefit h3 etc..)
 Deployment: https://github.com/ultimatejayfox/horizon-Refractor.git
+
+https://ultimatejayfox.github.io/horizon-Refractor/
+(note that deployment redirects to Github code)
 original code:starter code refractor coursework for Gtc Bootcamp
